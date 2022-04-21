@@ -25,11 +25,7 @@ namespace SwitchStatements
                 default:
                     Console.WriteLine("Never heard of that one, but at the same time, I've never been to school.");
                     break;
-
             }
-            
-                
-
         }
     }
 }
